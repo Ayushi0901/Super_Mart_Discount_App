@@ -6,12 +6,13 @@ Need to Calculate discount while billing at Super market based on their purchase
 
 # Input
 There can be multiple types of customers(Regular, Premium etc.) and they have been given a discount based on their purchase amount. for e.x
-• Premium Customer
+
+### • Premium Customer
 a) 0- 5000 0%
 b) 5000- 10000 10%
 c) 10000 - above 20%
 
-• Regular Customer
+### • Regular Customer
 a) 0- 4000 10%
 b) 4000 - 8000 15%
 c) 8000 - 12000 20%
